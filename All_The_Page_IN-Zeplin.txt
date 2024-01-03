@@ -1,0 +1,32 @@
+All the pages that we have in Zeplin.
+
+1. Crowdfunding Pages
+	1a. Crowfunding page mobile
+2. Profile page
+	2a. Profile Mobile
+3. Hubspot: Employee Happiness
+	3a. Hubspot: Employee Happiness Mobile
+4. Give Page
+	4a. Give page Mobile
+5. Header and Sidenav
+	5a. Header and Sidenav Mobile
+6. Employee Admin page
+	6a. Employee Admin Page Mobile
+7. Charities - New Zip/Location options
+	7a. Charities - New Zip/Location options Mobile.
+
+Please check out Style Guide, Supported Resolution and page padding so that we can be consistence. 
+
+
+8. Log/Sign Up Pages
+	8a. Log/Sign up pages Mobile
+9. Charities-Registrations/Admin
+	9a. Charaties-Registration/Admin Mobile
+10. Crowdfunding Creation
+	10a. Crowdfunding Creation Mobile
+11. Hover States
+12. Home-Desktop
+	12a. Home Mobile
+13. Charities Desktop
+	13a. Charities-Mobile
+14. 

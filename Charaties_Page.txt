@@ -1,0 +1,37 @@
+1. Confirm button do not work while I make the donation from favorite charaties section. x
+2. Confirm button do not work while I make the donation from Featured charaties section. x
+3. Search button and spinner should be line up with Select Category and select sub category box. //
+(this might be because the current is not listed in their local alpha database). To donate, a charity has to be in both elastic search and mysql db. 
+
+
+Charities-Favorites Opened-DT
+1. Line up the popup box with favorites icon x
+2. Write FAVORITES on the top (Inside the popup) x
+3. Make the title combination of lower case and upper case (Starting Latter of the words should be upper case) x
+4. Make sure popup box get close if we click anywhere outside the popup box. x
+5. Once we make the Donation, Title should be display in Upper lower case formate.  x
+
+6. Confirm button do not work while I make the donation from favorite charaties section.(if we try to donate from inside
+the popup box) x
+
+
+Charaties-Begin Search-DT
+1. When user start typing the charaties, start suggesting the charaties from the DB. 
+2. Gray out the rest of the page beside Search field so search field will be focused. (That is what I see in Jason Design)  x
+
+
+Charaties Search Result:
+Question to Mark?
+Do we want to use 2 colum in favorite and top charaties and 3 columns in Charaties search result?
+That is what I have seen in Zeplin. 
+
+
+Mobile design:
+1. We need to work on Mobile version of our charaties page. Our logo in off and title is miss-aline, give button is not where we want it. 
+2. Line up the popup box with favorites icon x
+3. Write FAVORITES on the top (Inside the popup) x
+4. Make the title combination of lower case and upper case (Starting Latter of the words should be upper case) x
+5. Make sure popup box get close if we click anywhere outside the popup box. x
+6. Gray out the rest of the page beside Search field so search field will be focused. (That is what I see in Jason Design) x
+7. Show Advnce search as like in Zeplin. 
+8. Displaying result should display as like in zeplin.
